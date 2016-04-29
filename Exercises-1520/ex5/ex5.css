@@ -1,0 +1,47 @@
+#fNameForm {
+  width: 300px;
+  height: 30px;
+  padding: 1px 4px;
+  margin: 4px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+  font-size: 16;
+}
+#lNameForm {
+  width: 300px;
+  height: 30px;
+  padding: 1px 4px;
+  margin: 4px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+  font-size: 16;
+
+}
+#formSubmit {
+  width: 300px;
+  height: 30px;
+  padding: 1px 4px;
+  margin: 4px 0px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  box-sizing: border-box;
+  color: White;
+  background-color: #003300;
+  font-size: 16;
+
+}
+p {
+	font-size: 24;
+}
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #373737;
+  background-color: #fff;
+}

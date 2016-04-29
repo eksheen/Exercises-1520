@@ -1,0 +1,16 @@
+.h1 {
+	text-align: center;
+	color: #701010;
+}
+.body {
+	text-align: center;
+	color: #701010;
+}
+.form {
+	border-radius: 10px;
+}
+
+#formSubmit {
+	background-color: #ff8080;
+	border-radius: 10px
+}

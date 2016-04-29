@@ -1,0 +1,16 @@
+.button {
+  width: 200px;
+  height: 100px;
+  display: inline-block;
+  background-color: #0044cc;
+  border: 1px solid #0044cc;
+  border-radius: 20px;
+  box-sizing: border-box;
+  font-size: 24;
+  color: White;
+}
+
+#addResult {
+	text-align: center;
+	font-size: 24;
+}

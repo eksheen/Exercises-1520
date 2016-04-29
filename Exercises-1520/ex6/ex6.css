@@ -1,0 +1,29 @@
+.body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.42857143;
+  color: #373737;
+  background-color: #fff;
+}
+#courseName {
+	width: 100px;
+	height: 30px;
+	padding: 1px 4px;
+	margin: 4px 0px;
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 3px;
+	box-sizing: border-box;	
+	font-size: 18;
+}
+#formSubmit {
+  width: 100px;
+  height: 25px;
+  display: inline-block;
+  background-color: #ccffff;
+  border: 1px solid black;
+  border-radius: 3px;
+  box-sizing: border-box;
+  font-size: 14;
+}
+
